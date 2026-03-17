@@ -1,0 +1,45 @@
+1.file = พื้นที่เก็บข้อมูลสามารถเก็บข้อมูลได้หลายอย่าง
+2.Management = กระบวนการทำงานร่วมกับคนและใช้ทรัพยากรอย่างมีประสิทธิภาพ
+3.file Management = การที่เราจะสร้างไฟล์,เก็บไฟล์,ดาว์โหลดไฟล์ต้องมีProcessของแต่ละแบบดังนั้นProcess
+	ขึ้นอยู่กับเราว่างจะใช้แบบไหน  ตย.  New file , write data , save file , (ถ้าจะลบต้อง)delete file , copy file , backup file
+4.ประเภทของไฟล์ = data file , Image file , video file , voice file
+5.file system = ระบบจัดการไฟล์ user app , logical file system , virtual file system , physical file system
+6.folder, file path and finding  file path =
+folder = ตัวจัดเก็บไฟล์
+file path = ส่วนใหญ่เป็นstringบอกตำแหน่งไฟล์
+finding  file path = การหาไฟล์
+7.os main memory = cacse memory , ram , rom, hard disk
+8.file system in operating system
+FAT
+NTFS
+EFS
+HFS
+APFS
+9.a free space my phone = 13.01 GB
+use space my phone = 115.GB
+10.free space management
+bit vector = bitmap
+linked list = linked list
+grouping = boundary tags
+counting = free block list
+11.file handing in java
+opening file
+reading from file
+writing to file
+adding to file
+closing the file
+12.Html  Have
+css not have
+js = have
+go = have
+kotlin = have
+13.c++ file
+C:\Users\ACER\visual studio\Work\salt\final
+14.Lap 1 = create file
+Lab2 = input id name last name
+Lab3 = readcode
+Lab4 =  +1บรรทัดตรงข้อความLab5 = ตั้งชื่อตัวแปร(ชื่อไฟล์)
+Lab6 = ใส่cinตรงชื่อไฟล์
+Lab7 =  ใส่ตัวแปรตรงTEXT
+Lab8 = ใส่ชื่อเพื่อน1ชื่อ
+Lab9 = ใส่Loop ใส่ชื่อเพื่อน5คน
